@@ -1,0 +1,11 @@
+/Backup/
+*.tp
+*.pc
+*.zip
+
+# LS-Files to ignore
+err*.ls
+hist.ls
+logbook.ls
+vtrndiag.ls
+updtlog.ls
